@@ -1,11 +1,13 @@
 # The page is currently being updated and the code will be available March 22nd 2024.
 
 # Introduction
-MoCapSequencer has been developed as a tool in the Ph.D. project entitled XXX, by Helle Marie Hüche Larsen.
-The application was inspired by the work by Choi, Julia T. et al [[1]](#1).
+MoCapSequencer has been developed as a tool in the Ph.D. project entitled **"Organization of the neural drive to spinal motor neurons in visually guided gait modifications in children and adults with and without cerebral palsy"**, by Helle Marie Hüche Larsen.
+
 The software handles visual presentation, synchronization and recording of various systems.
 
-# Supported systems/
+The application was inspired by the work by Choi, Julia T. et al [[1]](#1).
+
+# Supported systems/features
 The current list of supported systems are:
 
  * Motion Capture
