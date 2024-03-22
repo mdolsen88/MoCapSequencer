@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoCapSequencer", "MoCapSequencer.csproj", "{BD3F5BD6-5800-46CF-BC2A-1593CA939C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3F5BD6-5800-46CF-BC2A-1593CA939C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3F5BD6-5800-46CF-BC2A-1593CA939C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3F5BD6-5800-46CF-BC2A-1593CA939C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3F5BD6-5800-46CF-BC2A-1593CA939C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15547837-A2EA-4662-97D1-1357B60A7106}
+	EndGlobalSection
+EndGlobal
